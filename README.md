@@ -22,10 +22,10 @@ English, Chinese (Mandarin), Japanese
 ### Pave (April 2015 - Present)
 **Senior Software Engineer**
 + Work in a small fast-paced startup that focuses on building best-in-class personal lending product.
-+ Built internal loan servicing system that is essential to the business.  The system is used daily by operations team, it also automates various reports and powers the borrowers' dashboards.
++ Built internal loan servicing system that is essential to the business.  The system is used daily by Operations team, it also automates various internal and external reports and powers the borrowers' dashboards.
 + Built the borrowers' dashboards from minimal requirements using HTML, Less, Javascript, jQuery.
-+ Redesigned the back-end system from a server-rendered website to a purely RESTful API server that interacts with the AngularJS front end.
-+ Integrated the system with third-party fraud prevention services.
++ Redesigned the back-end system from a server-rendered website to a purely RESTful API server that interacts with the AngularJS front end.  The server is built with Python, Flask framework, Nginx, Redis, and MongoDB.
++ Integrated third-party fraud prevention services.
 + Automated daily ACH credits and debits.
 
 ### ROAM/INGENICO MOBILE SOLUTION (October 2012 - February 2015)
