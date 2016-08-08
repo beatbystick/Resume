@@ -19,6 +19,15 @@ English, Chinese (Mandarin), Japanese
 + Bachelor of Science in Electrical and Computer Engineering, MAY 2008
 
 ## Experiences
+### Pave (April 2015 - Present)
+**Senior Software Engineer**
++ Work in a small fast-paced startup that focuses on building best-in-class personal lending product.
++ Built internal loan servicing system that is essential to the business.  The system is used daily by operations team, automates investor reports, and powers the borrowers' dashboards.
++ Built the borrowers' dashboards from minimal requirements using HTML, Less, Javascript, jQuery.
++ Redesigned the back-end system from a server-rendered website to a purely RESTful API server that interacts with the AnuglarJS front end.
++ Integrated the system with third-party fraud prevention services.
++ Automated dialy ACH credits and debits.
+
 ### ROAM/INGENICO MOBILE SOLUTION (October 2012 - February 2015)
 **Senior Software Engineer**
 + Worked as tech lead on the EMV Server project, which is a new server solution to process EMV credit card transactions originating from mobile applications.
@@ -36,7 +45,7 @@ English, Chinese (Mandarin), Japanese
 + Participated in a small team to build the Performance Lab using C# and PowerShell, a heavily used internal test environment aimed to automate testing on core products to analyze performance, and was responsible for designing simulations to mimic high message traffic and implementing interfaces for simulator to interact with core products.
 + Appointed as a member of a specialized team that analyzed and optimized multiple core products to resolve performance issues for the biggest clients in terms of user activity, and was responsible for analyzing client and profiling data to identify and resolve performance bottleneck.
 + Work with multiple third party vendors to solve software interfacing issues, on several occasions decompiling third party Java class files or studying given source code to help pinpoint problems.
-+ Resolve critical production issues in a fast paced environment by collaborating with support team and consultants to ensure 100% system uptime.
++ Resolve critical production issues in a fast-paced environment by collaborating with support team and consultants to ensure 100% system uptime.
 + Won Employee of the Month Award multiple times through company wide nomination.
 
 ## Extra
