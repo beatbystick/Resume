@@ -1,5 +1,5 @@
 # Shang-Wei Wang
-**beatbystick@gmail.com** + 617-806-6620
+**beatbystick@gmail.com** + **617-806-6620**
 
 3606 30th ST, APT F7, Astoria, NY 11106
 
