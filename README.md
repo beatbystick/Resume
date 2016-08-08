@@ -3,6 +3,8 @@
 
 3606 30th ST, APT F7, Astoria, NY 11106
 
+https://www.linkedin.com/in/shangweiwang
+
 ## Summary
 A passionate software engineer with years of industry experience, designing and developing mobile, enterprise, and web applications.  Recent experiences include, electronic trading, mobile payment, and personal lending.
 
